@@ -1,0 +1,8 @@
+streamlit
+streamlit-mic-recorder
+SpeechRecognition
+langchain
+langchain-openai
+langchain-google-genai
+python-dotenv
+pydub
